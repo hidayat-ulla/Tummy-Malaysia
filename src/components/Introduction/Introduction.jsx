@@ -1,4 +1,4 @@
- import "./introduction.css";
+ import "./Introduction.css";
 const Introduction = () => (
   <section className="intro-section">
     <div className="intro-container">
