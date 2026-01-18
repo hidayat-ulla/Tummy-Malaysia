@@ -1,4 +1,4 @@
- import "./whyChanges.css";
+ import "./WhyChanges.css";
 const WhyChanges = () => (
   <section className="why-section">
     <div className="why-container">
